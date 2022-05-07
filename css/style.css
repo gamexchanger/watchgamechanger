@@ -272,7 +272,7 @@
 	{
 		position: relative;
 		display: inline-block;
-		background: #d517c6;
+		background: #5866ef;
 		padding: 0.8em 2em;
 		text-decoration: none !important;
 		font-size: 1.2em;
@@ -889,7 +889,7 @@
 	#main
 	{
 		position: relative;
-		background: #fff;
+		background: #0e1920;
 	}
 	
 	.homepage #content
